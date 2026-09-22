@@ -31,6 +31,10 @@ python3 -m http.server 8000
 
 本机模式下数据保存在 `p207_*` localStorage；没有 Worker 时页面仍然可用，不生成随机样本。
 
+已发布地址：<https://sweetcpt.github.io/P2-07-campus-push-time/>
+
+正式参与入口：<https://sweetcpt.github.io/P2-07-campus-push-time/share.html?e=P2-07>
+
 ## 发布与收集
 
 GitHub Pages 可以直接托管本目录。跨设备收集时，部署 `worker/` 中独立的 Worker + D1，并在 `setup.html` 填写 API 地址。具体步骤见 [DEPLOY.md](DEPLOY.md)。

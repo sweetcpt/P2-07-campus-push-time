@@ -2,10 +2,16 @@
 
 ## GitHub Pages
 
-将本目录上传到独立仓库根目录，在 `Settings → Pages` 选择 `main` / `/(root)`。正式参与链接格式：
+本项目已发布到独立仓库，在 `Settings → Pages` 使用 `main` / `/(root)`：
 
 ```text
-https://用户名.github.io/仓库名/share.html?e=P2-07
+https://sweetcpt.github.io/P2-07-campus-push-time/
+```
+
+正式参与链接：
+
+```text
+https://sweetcpt.github.io/P2-07-campus-push-time/share.html?e=P2-07
 ```
 
 ## 独立 Worker + D1
